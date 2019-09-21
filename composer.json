@@ -16,7 +16,7 @@
     "minimum-stability": "dev",
     "autoload":{
         "psr-4":{
-           "Janynne\\FakeData\\": ["src/Janynne/FakeData" ]
+           "Janynne\\FakeData\\": ["Janynne/FakeData" ]
         }
     }
 }
