@@ -51,7 +51,7 @@ class FakeDataArrays {
     }
     
     
-    public static function getPerson($count){
+    public function getPeople($count){
         
         $people = array();
         
