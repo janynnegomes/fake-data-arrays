@@ -1,0 +1,22 @@
+{
+    "name": "janynne/fake-data-arrays",
+    "description":"Tenha dados para testar suas aplicações de forma offline",
+    "type":"library",
+    "version": "1.0.0",
+    "keywords": ["util", "functional", "server", "client", "browser"],
+    "authors": [
+        {   "name":"Janynne Gomes",
+            "email":""    ,
+            "role":"creator"
+        }
+    ],
+    "require":{
+        "php":">7.0"
+    },
+    "minimum-stability": "dev",
+    "autoload":{
+        "psr-4":{
+           "Janynne\\FakeData\\": ["src/Janynne/FakeData" ]
+        }
+    }
+}
